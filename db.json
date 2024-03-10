@@ -17,6 +17,14 @@
     "name": "typicode"
   },
   "emplyoee": [
-    
+    {
+      "firstname": "hghjg",
+      "lastname": "hgjhgjh",
+      "email": "mahesh@gmail.com",
+      "dob": "2024-03-04T18:30:00.000Z",
+      "gender": "male",
+      "education": "SSC",
+      "id": 1
+    }
   ]
 }
